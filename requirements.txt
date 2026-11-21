@@ -1,0 +1,5 @@
+openai>=3.57,<4
+python-telegram-bot[job-queue]>=22.8,<23
+psycopg[binary]>=3.3,<4
+python-dotenv>=1.0
+tzdata
